@@ -30,6 +30,7 @@ $(function() {
       console.log('sampleクラスがあります');
     }else {
       console.log('sampleクラスがありません');
+      
     }
   });
 });
